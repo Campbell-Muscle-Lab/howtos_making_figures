@@ -2,9 +2,12 @@ remote_theme: pmarsceill/just-the-docs
 
 # Auxiliary links for the upper right navigation.
 aux_links:
-  "Campbell lab": "//www.campbellmusclelab.org"
-  "Lab GitHub": "//campbell-muscle-lab.github.io"
-  "howtos_making_figures": "//github.com/campbell-muscle-lab/howtos_making_figures"
+  "Campbell Muscle Lab":
+  - "http://www.campbellmusclelab.org"
+  "Lab GitHub":
+  - "http://campbell-muscle-lab.github.io"
+  "How Tos Making Figures Repo":
+  - "http://github.com/Campbell-Muscle-Lab/howtos_making_figures"
 
 # Not a big fan of dark mode. I think the light looks better.
 # color_scheme: "dark"
