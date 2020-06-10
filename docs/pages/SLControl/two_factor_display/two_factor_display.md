@@ -10,8 +10,8 @@ parent: SLControl
 ## Code
 
 Uses:
-+ [MATLAB utilities](https://github.com/Campbell-Muscle-Lab/MATLAB_Utilities)
-+ [SLControl utilities](https://github.com/Campbell-Muscle-Lab/SLControl_utilities)
++ [MATLAB utilities](http://github.com/Campbell-Muscle-Lab/MATLAB_Utilities)
++ [SLControl utilities](http://github.com/Campbell-Muscle-Lab/SLControl_utilities)
 
 [MATLAB code](https://github.com/Campbell-Muscle-Lab/howtos_making_figures/blob/master/code/SLControl_data/two_factor_display/figure_two_factor_display.m)
 

@@ -1,0 +1,3 @@
+# Ignore temp files generated during run
+sas_code.log
+temp.xlsx
